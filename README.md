@@ -25,7 +25,6 @@ The **Habit Tracker App** helps users build and maintain healthy habits by allow
 
 ### **License Files**
 
-If you're using the **MIT License**, you can include a `LICENSE` file with the following content:
 
 ```txt
 MIT License
