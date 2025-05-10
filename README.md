@@ -22,48 +22,6 @@ The **Habit Tracker App** helps users build and maintain healthy habits by allow
 
 ## Installation
 
-### 1. Clone the Repository
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/habit-tracker-app.git
-cd habit-tracker-app
-
-
-### **Explanation of Each Section:**
-
-1. **Project Title**: 
-   - The name of your project (**Habit Tracker App**).
-
-2. **Description**: 
-   - A brief introduction to your app and what it does. It should highlight the core features to attract users and developers.
-
-3. **Tech Stack**: 
-   - A list of technologies used in the app. This helps potential contributors and users understand the tools you've used to build the app.
-
-4. **Installation**: 
-   - A step-by-step guide on how to set up and run the app locally, including installation of dependencies, environment variable configuration, and running the app.
-
-5. **Usage**: 
-   - A brief overview of how users interact with the app once it's running.
-
-6. **File Structure**: 
-   - An overview of how the project files are organized. This helps developers understand the architecture of the project.
-
-7. **Contributing**: 
-   - Information for other developers who may want to contribute to the project. It explains the steps to fork the repo, make changes, and submit a pull request.
-
-8. **License**: 
-   - A section to indicate the open-source license you're using (MIT License in this case). This is important for legal purposes and transparency.
-
-9. **Acknowledgements**: 
-   - A list of external libraries, tools, or people who contributed to the project.
-
-10. **Copyright & License**: 
-   - Copyright information about the project and a clear statement of the license under which it's distributed.
-
----
 
 ### **License Files**
 
